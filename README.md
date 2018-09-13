@@ -13,5 +13,6 @@
 \pard\pardeftab720\sl320\partightenfactor0
 \cf3 Creating Pull Requests (PRs) is needed when using RCS in a multi-person projects.\
 \
-This sample-things repo can be used to practice creating PRs.\
+This sample-things repo can be used to practice creating PRs.
+Inserted new line. \
 }
